@@ -297,7 +297,7 @@ html{
     margin-top: 50px;
 }
 .contacto .contenido-seccion .fila .col h2{
-    color: #57243d;
+    color: #0c0c0c;
 }
 /* SECCION RESPONSIVE adaptable para cualquier dispositivo*/
 @media screen and (max-width:800px){
