@@ -299,7 +299,7 @@ html{
 .contacto .contenido-seccion .fila .col h2{
     color: #57243d;
 }
-/* SECCION RESPONSIVE */
+/* SECCION RESPONSIVE adaptable para cualquier dispositivo*/
 @media screen and (max-width:800px){
     .habilidades .contenido-seccion .fila{
         display: block;
